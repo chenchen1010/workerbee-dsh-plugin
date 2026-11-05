@@ -1,0 +1,5 @@
+# 工蜂工作台插件：一行 Host + Client 同包的插件行。
+# 客户改完源码后，重装/重载这个 bundle 即可；不需要构建。
+- insert:
+    - id: xhs-workbench
+      name: '@workerbee/dsh-xhs-workbench'

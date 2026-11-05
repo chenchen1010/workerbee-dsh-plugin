@@ -1,0 +1,13 @@
+{
+  "_comment": "复制成 config.json 再改；config.json 已在 .gitignore 里。",
+  "core": {
+    "path": "../../runtime/core",
+    "dataDir": "",
+    "port": 0,
+    "enforceLicense": false,
+    "env": {
+      "XHS_SETTINGS_PATH": ""
+    }
+  },
+  "cloudBaseUrl": ""
+}
